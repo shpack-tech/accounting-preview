@@ -266,7 +266,7 @@
   min-height: 8px;
   min-width: 12px;
   margin: 0;
-  content: url("/myimages/Vectorangle_down.svg");
+  content: url("../myimages/Vectorangle_down.svg");
   -webkit-transition-duration: 0.3s;
        -o-transition-duration: 0.3s;
           transition-duration: 0.3s;
@@ -471,7 +471,7 @@
   min-height: 8px;
   min-width: 12px;
   right: -24px;
-  content: url("/myimages/Vectorangle_down.svg");
+  content: url("../myimages/Vectorangle_down.svg");
   -webkit-transition-duration: 0.3s;
        -o-transition-duration: 0.3s;
           transition-duration: 0.3s;
